@@ -43,7 +43,7 @@ Includes quick navigation links, contact details, terms & policies, and social m
 
 Designed to maintain consistency across all web pages.
 
-6. single_profile_view@3x.png
+6. single_profile_view@3x
 
 Represents the detailed single profile view of a user.
 
