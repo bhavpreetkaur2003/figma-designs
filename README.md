@@ -2,7 +2,7 @@ Matrimonial Website – Figma Design Files
 
 This repository contains the design assets for a matrimonial website. All files are exported from Figma and represent different sections of the web and mobile UI.
 
-📌 Files & Descriptions
+ Files & Descriptions
 1. Request_status.zip
 
 Contains the design screens related to request management.
